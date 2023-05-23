@@ -1,15 +1,15 @@
-# Repositório da matéria de Sistemas Embarcados
+# Repositório de mini projetos e testes em Python
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/DanielScabeni/SistemasEmbarcados">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielScabeni&repo=SistemasEmbarcados&theme=chartreuse-dark" alt="Readme Card">
+      <a href="https://github.com/DanielScabeni/PythonX-Testes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielScabeni&repo=PythonX-Testes&theme=chartreuse-dark" alt="Readme Card">
       </a>
     </td>
     <td width="50%">
   </a>
-    <p style="color: white;">Este é o PRINCIPAL repositorio onde será separado por PASTAS, os projetos desenvolvidos na matéria de Sistemas Embarcados do curso de Sistemas de Informações da Universidade MaterDei (UNIMATER), ministrada pelo professor Dr. Rafael babosa</p>
+    <p style="color: white;">Repositorio usado para armazenar Projetos Simples e Testes Feitos em Python durante os primeiros Semestre do Curso de Sistemas de Informação da Universidade MaterDei (UNIMATER)</p>
     </td>
   </tr>
 </table>
